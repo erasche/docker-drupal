@@ -127,7 +127,7 @@ PHP extensions.
 
 ## Credits
 
-Authors of image: Sam Stoelinga, Frank Sachsenheim, Eric Rasche
+Authors of image: Sam Stoelinga, Frank Sachsenheim, E. Rasche
 
 Source code: [https://github.com/samos123/docker-drupal](https://github.com/samos123/docker-drupal)
 
